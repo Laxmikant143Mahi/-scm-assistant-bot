@@ -5,7 +5,8 @@
  https://cloud.flowiseai.com/chatbot/0b57fb43-0547-43e9-8534-41824907ced0
 
 ---
-# Github Repo Link to access this : https://github.com/Laxmikant143Mahi/-scm-assistant-bot.git
+# Github Repo Link to access this :
+https://github.com/Laxmikant143Mahi/-scm-assistant-bot.git
 
 # Technology Stack
 
