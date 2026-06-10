@@ -92,7 +92,7 @@ Policy §9 (CPO escalation + alternate supplier at minimum 40% volume).
 Q2]
 Which suppliers qualify for the annual Volume Rebate Program and how many are there?
 
-ANS
+ANS: 
 19 suppliers qualify: Borealis Composites, Crestline Chemical Supply, Fenwick Alloy Solutions, Hanguk
 Circuit Works, Hokkaido Alloy Tech, Krauss-Polymex GmbH, Lakeshore Components, Lumivex
 Semiconductor NL, Maplewood Polymer Corp, Norbec Alloy Works, Nordloom Finland Oy, Orrentek Precision
@@ -103,13 +103,13 @@ Tasman Circuit Boards, Toreval Electronics, Valdoro Special Alloys. Criteria (Po
 Q3]
 Which region has the highest total PO value, and does it breach the concentration limit?
 
-ANS
+ANS: 
 EMEA at $193,987,179.91 — approximately 48.5% of total spend ($399,563,494.10). This breaches the 45%
 regional concentration cap (Policy §5.3), requiring a Diversification Plan within 60 days.
 
 Q4]
 Which suppliers are on Supplier Watch List (SWL) status and what does it restrict?
-ANS
+ANS: 
 
 11 suppliers (Compliance Score < 60): Deltaforge Vietnam, Maghreb Castworks, Helios Pack Greece,
 Cerromax Mineria, Orinoco Pack SAPI, Varna Electronics EAD, Quetzal Textiles, Plataforma Metales SA,
@@ -118,7 +118,7 @@ of prior quarter volume (Policy §3.4).
 
 Q5]
 Which product category has the highest average defect rate and does it exceed the Tier-2 limit?
-ANS
+ANS: 
 
 Mechanical Components — average 2.12% across 360 POs. Below the Tier-2 ceiling of 2.50% (Policy §3.2),
 so no breach — but approaching the limit.
